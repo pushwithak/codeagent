@@ -47,10 +47,3 @@ Coming soon...
 
 - [Phase 1 Learnings](docs/PHASE1_LEARNINGS.md)
 
-## 👤 Author
-
-**pushwitha** - Learning RAG from scratch!
-
-## 📄 License
-
-MIT License

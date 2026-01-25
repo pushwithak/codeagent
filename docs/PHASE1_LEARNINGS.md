@@ -30,4 +30,4 @@ A basic RAG pipeline that can answer questions about a GitHub repository.
 - [ ] Basic Q&A
 
 ---
-*Last updated: January 23, 2025*
+
